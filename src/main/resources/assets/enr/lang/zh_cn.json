@@ -1,0 +1,19 @@
+{
+  "attribute.name.enr.strength" : "力量",
+  "attribute.name.enr.vitality" : "体质",
+  "attribute.name.enr.dexterity" : "敏捷",
+  "attribute.name.enr.willpower" : "毅力",
+  "attribute.name.enr.mentality" : "神性",
+  "attribute.name.enr.technique" : "适应",
+  "attribute.name.enr.strength_load" : "§c力量负担",
+  "attribute.name.enr.vitality_load" : "§c体质负担",
+  "attribute.name.enr.dexterity_load" : "§c敏捷负担",
+  "attribute.name.enr.willpower_load" : "§c毅力负担",
+  "attribute.name.enr.mentality_load" : "§c神性负担",
+  "attribute.name.enr.technique_load" : "§c适应负担",
+  "attribute.name.enr.interact_speed" : "交互速度",
+  "attribute.name.enr.skill_cd_speed" : "技能冷却速度",
+  "attribute.name.enr.cost_reduction" : "降低消耗"
+
+
+}

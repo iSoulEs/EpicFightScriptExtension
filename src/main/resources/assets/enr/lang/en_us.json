@@ -1,0 +1,18 @@
+{
+  "attribute.name.enr.strength" : "strength",
+  "attribute.name.enr.vitality" : "vitality",
+  "attribute.name.enr.dexterity" : "dexterity",
+  "attribute.name.enr.willpower" : "willpower",
+  "attribute.name.enr.mentality" : "mentality",
+  "attribute.name.enr.technique" : "technique",
+  "attribute.name.enr.strength_load" : "§cstrengthLoad",
+  "attribute.name.enr.vitality_load" : "§cvitalityLoad",
+  "attribute.name.enr.dexterity_load" : "§cdexterityLoad",
+  "attribute.name.enr.willpower_load" : "§cwillpowerLoad",
+  "attribute.name.enr.mentality_load" : "§cmentalityLoad",
+  "attribute.name.enr.technique_load" : "§ctechniqueLoad",
+  "attribute.name.enr.interact_speed" : "interact speed",
+  "attribute.name.enr.skill_cd_speed" : "skill cd speed",
+  "attribute.name.enr.cost_reduction" : "cost reduction",
+  "tooltip.enr.strength" : "strength %d/%d"
+}
